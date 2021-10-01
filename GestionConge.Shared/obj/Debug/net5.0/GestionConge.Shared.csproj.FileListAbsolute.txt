@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\Gestion_Conge\GestionConge.Shared\bin\Debug\net5.0\GestionConge.Shared.deps.json
+C:\Users\HP\source\repos\Gestion_Conge\GestionConge.Shared\bin\Debug\net5.0\GestionConge.Shared.dll
+C:\Users\HP\source\repos\Gestion_Conge\GestionConge.Shared\bin\Debug\net5.0\ref\GestionConge.Shared.dll
+C:\Users\HP\source\repos\Gestion_Conge\GestionConge.Shared\bin\Debug\net5.0\GestionConge.Shared.pdb
+C:\Users\HP\source\repos\Gestion_Conge\GestionConge.Shared\obj\Debug\net5.0\GestionConge.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Gestion_Conge\GestionConge.Shared\obj\Debug\net5.0\GestionConge.Shared.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Gestion_Conge\GestionConge.Shared\obj\Debug\net5.0\GestionConge.Shared.AssemblyInfo.cs
+C:\Users\HP\source\repos\Gestion_Conge\GestionConge.Shared\obj\Debug\net5.0\GestionConge.Shared.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Gestion_Conge\GestionConge.Shared\obj\Debug\net5.0\GestionConge.Shared.dll
+C:\Users\HP\source\repos\Gestion_Conge\GestionConge.Shared\obj\Debug\net5.0\ref\GestionConge.Shared.dll
+C:\Users\HP\source\repos\Gestion_Conge\GestionConge.Shared\obj\Debug\net5.0\GestionConge.Shared.pdb
